@@ -8,13 +8,12 @@
     "rsync",
     "git"
   ],
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "Francois Laberge <francoislaberge@gmail.com>",
   "main": "./lib/index.js",
   "dependencies": {
     "knox": "0.0.9",
-    "underscore": "~1.4.4",
-    "debug": "~0.7.2"
+    "underscore": "~1.4.4"
   },
   "engines": {
     "node": ">= 0.2.0"
