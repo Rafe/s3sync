@@ -13,8 +13,8 @@ usage:
     var s3sync = require('s3sync');
 
     s3sync({
-      'S3_KEY': 'your s3 key',
-      'S3_SECRET': 'your s3 secret',
+      'key': 'your s3 key',
+      'secret': 'your s3 secret',
       'bucket': 'your s3 bucket',
       'gitRoot': 'your git path',
       'dir': 'target dir to be synced',
